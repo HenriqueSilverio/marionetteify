@@ -1,0 +1,20 @@
+{
+  "name": "marionetteify",
+  "version": "0.0.0",
+  "description": "A foundation to modern JavaScript applications",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueSilverio/marionetteify.git"
+  },
+  "keywords": [
+    "backbone",
+    "marionette",
+    "browserify"
+  ],
+  "author": "Henrique Silverio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HenriqueSilverio/marionetteify/issues"
+  },
+  "homepage": "https://github.com/HenriqueSilverio/marionetteify"
+}
