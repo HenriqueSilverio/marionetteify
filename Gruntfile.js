@@ -27,6 +27,7 @@ module.exports = function(grunt) {
   grunt.registerTask('default', ['build']);
 
   grunt.registerTask('build', [
-    'copy'
+    'copy:dist',
+    'jshint:dist'
   ]);
 };
