@@ -28,6 +28,7 @@ module.exports = function(grunt) {
 
   grunt.registerTask('build', [
     'copy:dist',
-    'jshint:dist'
+    'jshint:dist',
+    'jscs:dist'
   ]);
 };
