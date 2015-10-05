@@ -10,7 +10,8 @@ module.exports = function() {
       options: {
         transform: [
           'hbsfy',
-          'babelify'
+          'babelify',
+          ['uglifyify', { global: true }]
         ]
       },
 
